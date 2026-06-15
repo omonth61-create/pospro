@@ -333,6 +333,12 @@ npx cap build android
 npm run tauri build
 ```
 
+### Build Windows Desktop (Tauri)
+```bash
+npm install
+npm run tauri build
+```
+
 ---
 
 ## ✅ Standar Kontribusi

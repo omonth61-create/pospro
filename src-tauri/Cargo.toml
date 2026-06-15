@@ -1,0 +1,10 @@
+[package]
+name = "pospro"
+version = "0.1.0"\nauthors = ["POSPro <noreply@example.com>"]
+edition = "2021"
+description = "POSPro desktop wrapper for Windows using Tauri"
+license = "Apache-2.0"
+
+[dependencies]
+tauri = { version = "1.4.0", features = ["api-all"] }
+tauri-plugin-sqlite = "0.8.0"
